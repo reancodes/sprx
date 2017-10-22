@@ -86,7 +86,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="#">
+						<a href="admins.php">
 							<span><i class="fa fa-users"></i></span>
 							<span>Admins</span>
 						</a>
